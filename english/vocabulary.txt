@@ -10,4 +10,24 @@ brain - cerebro
 motion - movimiento
 insightful - perspicaz
 awkward - torpe
+regret - lamentar/arrepentirse
+milestone - hito
+dare - atrevimiento/atreverse
+pin - alfiler
+my mouth is watering - se me hace la boca agua
+age (como verbo) - envejecer
+it tastes good - sabe bien
+tough - dificil/duro
+envision - visualizar
+willing - dispuesto a
+borough - ciudad/barrio
+boost - aumentar/elevar/subir
+breach - vibracion/brecha/infraccion
+early bird - anticipado
+challenge - reto / desafio
+agreement - acuerdo
+approach - enfoque / aproximación
+hug - abrazo/abrazar
+outbreak - brote
+
 
