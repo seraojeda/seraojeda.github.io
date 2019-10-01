@@ -41,3 +41,4 @@ sword - espada
 insight - visión
 tricky - dificil / astuto / espinoso
 aim - tener como objetivo
+down to earth - con los pies en la tierra
