@@ -29,5 +29,6 @@ agreement - acuerdo
 approach - enfoque / aproximación
 hug - abrazo/abrazar
 outbreak - brote
+Pointless - inútil 
 
 
