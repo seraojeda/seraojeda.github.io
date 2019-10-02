@@ -49,3 +49,4 @@ withdrawal - retirada
 beside - junto a / al lado de
 theft - robo
 cash - efectivo
+tow - remolcar/remolque
