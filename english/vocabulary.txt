@@ -185,3 +185,4 @@ mourning - duelo/luto
 akin - parecido
 remorse - remordimiento
 whistleblower - denunciante
+outstanding - excepcional
