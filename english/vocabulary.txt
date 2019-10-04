@@ -186,3 +186,4 @@ akin - parecido
 remorse - remordimiento
 whistleblower - denunciante
 outstanding - excepcional
+taxpayer - contribuyente/que paga los impuestos
