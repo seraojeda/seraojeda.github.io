@@ -191,5 +191,6 @@ amid - en medio de
 mere - apenas/un mero
 inquiry - investigación
 make-believe - fantasía / hacer creer
-taxpayer - contribuyente/que paga los impuestos 
+taxpayer - contribuyente/que paga los impuestos
 mud - barro/lodo
+commitment - compromiso/entrega
