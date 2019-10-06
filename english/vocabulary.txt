@@ -197,3 +197,4 @@ commitment - compromiso/entrega
 figure out - entender/descrifar/resolver
 charts - gráficos
 deserve - merecer
+layout - diseño
