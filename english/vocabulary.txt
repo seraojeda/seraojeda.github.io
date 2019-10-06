@@ -199,3 +199,5 @@ charts - gráficos
 deserve - merecer
 layout - diseño
 behold - mirar/observar
+salient features - características sobresalientes
+somehow - de alguna manera
