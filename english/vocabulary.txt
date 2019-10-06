@@ -195,3 +195,5 @@ taxpayer - contribuyente/que paga los impuestos
 mud - barro/lodo
 commitment - compromiso/entrega
 figure out - entender/descrifar/resolver
+charts - gráficos
+deserve - merecer
