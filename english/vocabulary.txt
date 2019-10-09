@@ -207,3 +207,4 @@ endeavor - esfuerzo/empeño
 struggle - lucha/esfuerzo 
 fancy - lujoso/fantástico
 bargain - ganga/negocio
+shift - cambio
