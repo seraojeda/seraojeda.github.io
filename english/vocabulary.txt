@@ -209,3 +209,4 @@ fancy - lujoso/fantástico
 bargain - ganga/negocio
 shift - cambio
 foster - fomentar
+upcoming - próximo
