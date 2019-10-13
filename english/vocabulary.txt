@@ -210,3 +210,4 @@ bargain - ganga/negocio
 shift - cambio
 foster - fomentar
 upcoming - próximo
+mindset - mentalidad
