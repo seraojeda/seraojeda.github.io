@@ -212,3 +212,4 @@ foster - fomentar
 upcoming - próximo
 mindset - mentalidad
 indeed - en efecto/en realidad
+spread - untar/propagar/extender
