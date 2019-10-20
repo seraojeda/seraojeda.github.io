@@ -216,4 +216,4 @@ appraisal - evaluación/valoración/
 spread - untar/propagar/extender
 thorough - completo/exhaustivo
 weird - extraño
-misleading - engañoso
+misleading - engañoso/erróneo
