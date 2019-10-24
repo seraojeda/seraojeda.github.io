@@ -218,3 +218,4 @@ thorough - completo/exhaustivo
 weird - extraño
 misleading - engañoso/erróneo
 rush - prisa
+duty - deber/obligación
