@@ -220,3 +220,4 @@ misleading - engañoso/erróneo
 rush - prisa
 duty - deber/obligación
 vacuum - vacío
+tissues - tejidos (pañuelos de papel tambien)
